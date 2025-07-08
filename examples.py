@@ -1,7 +1,5 @@
 from mysql_wrapper import DatabaseConnection
 
-
-
 # database connection
 mydb = DatabaseConnection(
     host='localhost',
