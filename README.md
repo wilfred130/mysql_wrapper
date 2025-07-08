@@ -1,4 +1,4 @@
-# mysql_wrapper
+# mysql-inter-wrapper
 
 This is a lightweight Python utility that wraps common MySQL operations (CRUD) using mysql-connector-python. It provides clean, reusable methods for SELECT, INSERT, UPDATE, DELETE, and parameterized queries, with support for Pandas DataFrames and error handling. ✅ Features Easy-to-use CRUD operations, Parameterized query support &amp; error handling
 
