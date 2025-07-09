@@ -31,7 +31,7 @@ pip install mysql-inter-wrapper==1.0.1
 ## 🔧 Usage Example
 
 ```python
-from mysql_helper import DatabaseConnection
+from mysql_inter_wrapper import DatabaseConnection
 
 # database connection
 mydb = DatabaseConnection(
