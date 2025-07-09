@@ -4,7 +4,7 @@ This is a lightweight Python utility that wraps common MySQL operations (CRUD) u
 
 # MySQL DB Helper for Python 🐍🛠️
 
-It provides most of the functionality using only 4 function so you don't no to burn hours watching tutorial. Each fucntion can execute basic queries, join queries, stored procedures, transations and many more. Just know the right utility function to consume --> `execute_read' FOR all SELECT operations, `execute_update` FOR ALL updates, `execute_delete` all data removal, `execute_update` for insertions as well. So the only thing is!! Juggle your queries.
+It provides most of the functionality using only 4 function so you don't neeed to burn hours watching tutorial. Each fucntion can execute basic queries, join queries, stored procedures, transations and many more. Just know the right utility function to consume --> `execute_read' FOR all SELECT operations, `execute_update` FOR ALL updates, `execute_delete` all data removal, `execute_update` for insertions as well. So the only thing is!! Juggle your queries.
 
 ---
 
