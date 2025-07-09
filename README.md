@@ -21,7 +21,7 @@ This is a lightweight Python utility that wraps common MySQL operations (CRUD) u
 ## 📦 Installation
 
 ```bash
-pip install mysql-connector-python pandas
+pip install mysql-inter-wrapper==1.0.1
 ```
 
 ---
